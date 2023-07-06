@@ -8,6 +8,6 @@ multiprocess==0.70.9
 numpy==1.18.4
 numpy-indexed==0.3.5
 osqp==0.6.1
-scipy==1.4.1
+scipy==1.10.0
 scs==2.1.2
 six==1.15.0
